@@ -1,4 +1,6 @@
 mod variable;
+mod basic_types;
+
 
 #[cfg(test)]
 mod tests {
