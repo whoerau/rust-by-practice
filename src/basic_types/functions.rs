@@ -60,7 +60,7 @@ pub fn case4() {
 
 pub fn case5() {
     // 填空
-    let b = false;
+    let b = true;
 
     let _v = match b {
         true => 1,
